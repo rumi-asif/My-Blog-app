@@ -1,0 +1,16 @@
+# Robots.txt for NextGen Blog
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /write/
+Disallow: /dashboard/
+Disallow: /settings/
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://yourdomain.com/sitemap.xml
+
